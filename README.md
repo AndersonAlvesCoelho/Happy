@@ -1,6 +1,9 @@
 > 💡 Linguagem e ferramentas utilizadas no projeto:
 
 
+![mit]
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -14,3 +17,10 @@
 <p align="center">
   <img src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW%233/front-end/src/images/logo.svg">
 </p>
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/MalkonF/happy/blob/master/LICENSE.md) para mais detalhes.
+
+---
