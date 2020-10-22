@@ -16,7 +16,7 @@
 
 <div align="center">
 <h1>
-    <img alt="Happy" title="Happy" src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/logo-black.svg.svg" />
 </h1>
 <h3><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png"> NextLevelWeek 3.0</h3>
 <img  src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/landing.svg">
@@ -30,7 +30,12 @@ Este projeto foi desenvolvido no evento Next Level Week # 03 pela [Rocketseat](h
 
 Happy é um aplicativo que conecta pessoas a orfanatos para tornar o dia de muitas crianças mais feliz
 
-#### 
+
+##### Atividades finalizadas
+
+- [x] Backend 
+- [x] Frontend
+- [ ] Frontend 
 
 ## 💻 Iniciar o projeto
 #### 🔖 Layout
@@ -74,6 +79,27 @@ Obs .: Antes de continuar, certifique-se de ter a API rodando
     npm dev ou yarn dev
 ```
 
+#### 📱 Mobile
+No desenvolvimento do aplicativo, eu tive um problema ainda ainda não achei solução.
+O problem o corre quando eu conecto expo com o celular.
+Segui o erro abixo:
+<div align="center">
+    <img  src="https://cdn.discordapp.com/attachments/384754969800212480/768266130326159380/unknown.png">
+</div>
+
+---
+
+##### 🚧 Tentativas de sulocinar:
+    - acessar o aplicativo pelo **Tunnel** em vez pelo **LAN**;
+    - limpar o cache do navegador **chrome**;
+    - deletar a pasta **node_modules** & o arquivo package-**lock** e instalar tudo novamente pelo comando **npm i**;
+    - atualizar todas as dependências do projeto;
+    - deleta o projeto e recomeçar novamente;
+    - reiniciar o notebook.
+> soluções sugeridas e outras pessoas que tiveram o mesmo problema: 
+> [https://github.com/facebook/react-native/issues/28844](https://github.com/facebook/react-native/issues/28844)
+
+obs.: se alguém tiver algum solução, pode me chamar pelo [discord - ZOI#0704](ZOI#0704) ou pelo [email - a0a0coelho0@gmail.com](a0a0coelho0@gmail.com)
 
 <h1 name="nlw">📣 O que é Next Level Week?</h1>
 
@@ -92,3 +118,4 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/MalkonF/happy/blob/master/LICENSE.md) para mais detalhes.
 
 ---
+Feito por 💜&nbsp; Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
