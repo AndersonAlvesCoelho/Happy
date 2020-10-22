@@ -1,8 +1,6 @@
-> 💡 Linguagem e ferramentas utilizadas no projeto:
-
-
 ![Licença](https://camo.githubusercontent.com/206483f964cfac06f6b7b3141a6b898fe5449123/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d313543334436266c6162656c436f6c6f723d303030303030 "Licença")
 
+> 💡 Linguagem e ferramentas utilizadas no projeto:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -17,6 +15,7 @@
 <p align="center">
   <img src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW%233/front-end/src/images/logo.svg">
 </p>
+<h3 align="center"> [[https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png]] NextLevelWeek 3.0</h3>
 
 
 ## :memo: Licença
