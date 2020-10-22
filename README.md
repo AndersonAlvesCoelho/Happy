@@ -27,23 +27,30 @@ Este projeto foi desenvolvido no evento Next Level Week # 03 pela [Rocketseat](h
 Happy é um aplicativo que conecta pessoas a orfanatos para tornar o dia de muitas crianças mais feliz
 
 ## 💻 Iniciar o projeto
-> obgs: os passo a baixos, foram feito atrave do CMD ( Prompt de Comando) :octocat:
+### Requirements
 
-1. Acesse um diretório para pode clonada a pasta
+- [Node.js](https://nodejs.org/en/download/) ou [Yarn](https://classic.yarnpkg.com/en/docs/getting-started)
+- [Expo](https://expo.io/learn)
+
+```bash
+    git clone https://github.com/AndersonAlvesCoelho/Happy
+    cd Happy
 ```
-cd C:\WorkSpace
-git clone https://github.com/AndersonAlvesCoelho/Happy
-```
+
 #### Backend
-2.  Acesse um diretório do back-end
+```bash
+    #Acesse um diretório do back-end
+    cd NLW-03\back-end
+    #Logo após, instale as dependências necessárias
+    npm i ou yarn
+    #Use o script para executar as migrações
+    npm typeorm migration:run ou yarn typeorm migration:run
+    #Por fim, iniciar a api
+    npm dev ou yarn dev
 ```
-cd C:\WorkSpace\Happy\NLW-03\back-end
-```
-3. Logo após, instale as dependências necessárias, start o backend
-```
-npm i ou yarn
-npm start ou yarn start
-```
+> Pronto, seu backend já está inicializado. Você pode ver os dados da migration pela url ou pelo [insomnia](https://insomnia.rest/download/)
+> http://localhost:3333/orphanages
+
 
 ## :memo: Licença
 
