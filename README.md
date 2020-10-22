@@ -15,16 +15,35 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4"></code>
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="[.github/logo.png](https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW%233/front-end/src/images/logo.svg)" />
+    <img alt="Happy" title="Happy" src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW%233/front-end/src/images/logo.svg" />
 </h1>
 <h3 align="center"><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png">NextLevelWeek 3.0</h3>
 
 
-## 🧸 About the project
+## 💡 About the project
 
 Este projeto foi desenvolvido no evento Next Level Week # 03 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
 Happy é um aplicativo que conecta pessoas a orfanatos para tornar o dia de muitas crianças mais feliz
+
+## 💻 Iniciar o projeto
+> obgs: os passo a baixos, foram feito atrave do CMD ( Prompt de Comando) :octocat:
+
+1. Acesse um diretório para pode clonada a pasta
+```
+cd C:\WorkSpace
+git clone https://github.com/AndersonAlvesCoelho/Happy
+```
+#### Backend
+2.  Acesse um diretório do back-end
+```
+cd C:\WorkSpace\Happy\NLW-03\back-end
+```
+3. Logo após, instale as dependências necessárias, start o backend
+```
+npm i ou yarn
+npm start ou yarn start
+```
 
 ## :memo: Licença
 
