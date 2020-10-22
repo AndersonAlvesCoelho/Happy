@@ -14,11 +14,11 @@
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1091817101738864640/eQpWLr2c_400x400.jpg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4"></code>
 
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="[.github/logo.png](https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW%233/front-end/src/images/logo.svg)" />
+</h1>
+<h3 align="center"><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png">NextLevelWeek 3.0</h3>
 
-<p align="center">
-  <img src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW%233/front-end/src/images/logo.svg">
-</p>
-<h3 align="center"> [[https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png]] NextLevelWeek 3.0</h3>
 
 ## 🧸 About the project
 
