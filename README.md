@@ -101,7 +101,7 @@ Segue o erro abaixo:
 > soluções sugeridas e outras pessoas que tiveram o mesmo problema: 
 > [https://github.com/facebook/react-native/issues/28844](https://github.com/facebook/react-native/issues/28844)
 
-obs.: se alguém tiver algum solução, pode me chamar pelo <a>discord - ZOI#0704</a> ou pelo <a>a0a0coelho0@gmail.com</a>
+obs.: se alguém souber de alguma solução, pode me chamar pelo <a>discord - ZOI#0704</a> ou pelo <a>a0a0coelho0@gmail.com</a>
 
 <h1 name="nlw">📣 O que é Next Level Week?</h1>
 
