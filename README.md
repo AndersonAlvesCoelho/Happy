@@ -24,3 +24,5 @@
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/MalkonF/happy/blob/master/LICENSE.md) para mais detalhes.
 
 ---
+
+[mit]: https://camo.githubusercontent.com/206483f964cfac06f6b7b3141a6b898fe5449123/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d313543334436266c6162656c436f6c6f723d303030303030
