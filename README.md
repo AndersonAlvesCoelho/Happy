@@ -16,7 +16,7 @@
 
 <div align="center">
 <h1>
-    <img alt="Happy" title="Happy" src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/logo-black.svg.svg" />
+    <img alt="Happy" title="Happy" src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/logo-black.svg" />
 </h1>
 <h3><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png"> NextLevelWeek 3.0</h3>
 <img  src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/landing.svg">
@@ -91,12 +91,12 @@ Segue o erro abaixo:
 ---
 
 ##### 🚧 Tentativas de sulocinar:
-    <li>acessar o aplicativo pelo **Tunnel** em vez pelo <strong>LAN</strong>;</li>
-    <li>limpar o cache do navegador <strong>chrome</strong>;</li>
-    <li>deletar a pasta **node_modules** & o arquivo <strong>package-lock</strong> e instalar tudo novamente pelo comando <strong>npm i</strong>;</li>
-    <li>atualizar todas as dependências do projeto;</li>
-    <li>deleta o projeto e recomeçar novamente;</li>
-    <li>reiniciar o notebook.</li>
+<li>acessar o aplicativo pelo <strong>Tunnel</strong> em vez pelo <strong>LAN</strong>;</li>
+<li>limpar o cache do navegador <strong>chrome</strong>;</li>
+<li>deletar a pasta <strong>node_modules</strong> & o arquivo <strong>package-lock</strong> e instalartudo novamente pelo comando <strong>npm i</strong>;</li>
+<li>atualizar todas as dependências do projeto;</li>
+<li>deleta o projeto e recomeçar novamente;</li>
+<li>reiniciar o notebook.</li>
 
 > soluções sugeridas e outras pessoas que tiveram o mesmo problema: 
 > [https://github.com/facebook/react-native/issues/28844](https://github.com/facebook/react-native/issues/28844)
