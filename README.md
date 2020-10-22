@@ -35,13 +35,13 @@ Happy é um aplicativo que conecta pessoas a orfanatos para tornar o dia de muit
 
 - [x] Backend 
 - [x] Frontend
-- [ ] Frontend 
+- [ ] Mobile 
 
 ## 💻 Iniciar o projeto
 #### 🔖 Layout
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-### Requirements
+### Requerimentos
 
 - [Node.js](https://nodejs.org/en/download/) ou [Yarn](https://classic.yarnpkg.com/en/docs/getting-started)
 - [Expo](https://expo.io/learn)
@@ -80,9 +80,10 @@ Obs .: Antes de continuar, certifique-se de ter a API rodando
 ```
 
 #### 📱 Mobile
-No desenvolvimento do aplicativo, eu tive um problema ainda ainda não achei solução.
+No desenvolvimento do aplicativo, eu tive um problema que ainda não achei solução.
 O problem o corre quando eu conecto expo com o celular.
-Segui o erro abixo:
+
+Segue o erro abaixo:
 <div align="center">
     <img  src="https://cdn.discordapp.com/attachments/384754969800212480/768266130326159380/unknown.png">
 </div>
@@ -90,16 +91,17 @@ Segui o erro abixo:
 ---
 
 ##### 🚧 Tentativas de sulocinar:
-    - acessar o aplicativo pelo **Tunnel** em vez pelo **LAN**;
-    - limpar o cache do navegador **chrome**;
-    - deletar a pasta **node_modules** & o arquivo package-**lock** e instalar tudo novamente pelo comando **npm i**;
-    - atualizar todas as dependências do projeto;
-    - deleta o projeto e recomeçar novamente;
-    - reiniciar o notebook.
+    <li>acessar o aplicativo pelo **Tunnel** em vez pelo <strong>LAN</strong>;</li>
+    <li>limpar o cache do navegador <strong>chrome</strong>;</li>
+    <li>deletar a pasta **node_modules** & o arquivo <strong>package-lock</strong> e instalar tudo novamente pelo comando <strong>npm i</strong>;</li>
+    <li>atualizar todas as dependências do projeto;</li>
+    <li>deleta o projeto e recomeçar novamente;</li>
+    <li>reiniciar o notebook.</li>
+
 > soluções sugeridas e outras pessoas que tiveram o mesmo problema: 
 > [https://github.com/facebook/react-native/issues/28844](https://github.com/facebook/react-native/issues/28844)
 
-obs.: se alguém tiver algum solução, pode me chamar pelo [discord - ZOI#0704](ZOI#0704) ou pelo [email - a0a0coelho0@gmail.com](a0a0coelho0@gmail.com)
+obs.: se alguém tiver algum solução, pode me chamar pelo <a>discord - ZOI#0704</a> ou pelo <a>a0a0coelho0@gmail.com</a>
 
 <h1 name="nlw">📣 O que é Next Level Week?</h1>
 
@@ -115,7 +117,7 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/MalkonF/happy/blob/master/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/AndersonAlvesCoelho/Happy/blob/main/LICENSE.md) para mais detalhes.
 
 ---
 Feito por 💜&nbsp; Anderson Alves 👋 &nbsp;[linkedin](https://www.linkedin.com/in/anderson-alves-7b5587133/)
