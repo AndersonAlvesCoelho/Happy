@@ -23,8 +23,7 @@
 
 
 
-## 💡 About the project
-
+## 💡 Sobre o Projeto
 Este projeto foi desenvolvido no evento Next Level Week # 03 pela [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
 Happy é um aplicativo que conecta pessoas a orfanatos para tornar o dia de muitas crianças mais feliz
