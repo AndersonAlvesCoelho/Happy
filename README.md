@@ -56,6 +56,12 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
     cd NLW-03\back-end
     #Logo após, instale as dependências necessárias
     npm i ou yarn
+    
+    #Adicione as variáveis de ambiente
+    -> Crie um arquivo com o nome '.env'
+    # Salve o token no arquivo .env
+    -> PORT=4000
+    
     #Use o script para executar as migrações
     npm typeorm migration:run ou yarn typeorm migration:run
     #Por fim, iniciar a api
@@ -73,6 +79,14 @@ Obs .: Antes de continuar, certifique-se de ter a API rodando
     cd NLW-03\front-end
     #Logo após, instale as dependências necessárias
     npm i ou yarn
+    
+    # Adicione as variáveis de ambiente 
+    -> Crie um arquivo com o nome '.env'
+    # Crie uma conta gratuita no MapBox para pegar seu token
+    -> https://account.mapbox.com
+    # Salve o token no arquivo .env
+    -> REACT_APP_MAPBOX_TOKEN=TOKEN
+
     #Por fim, start o projeto
     npm dev ou yarn dev
 ```
