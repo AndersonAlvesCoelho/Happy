@@ -14,9 +14,7 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/53234021?s=400&v=4"></code>
 
 <div align="center">
-<h1>
     <img alt="Happy" title="Happy" src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/logo-black.svg" />
-</h1>
 <h3><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png"> NextLevelWeek 3.0</h3>
 <img  src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/landing.svg">
 </div>
